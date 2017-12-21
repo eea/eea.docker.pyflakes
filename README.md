@@ -6,8 +6,7 @@
 ## Supported tags and respective `Dockerfile` links
 
 - [`latest` (*Dockerfile*)](https://github.com/eea/eea.docker.pyglakes/blob/master/Dockerfile)
-- [`1.6.0.1` (*Dockerfile*)](https://github.com/eea/eea.docker.pyflakes/blob/1.6.0.1/Dockerfile)
-- [`1.6.0` (*Dockerfile*)](https://github.com/eea/eea.docker.pyflakes/blob/1.6.0/Dockerfile)
+- [`1.6.0.2` (*Dockerfile*)](https://github.com/eea/eea.docker.pyflakes/blob/1.6.0.2/Dockerfile)
 
 ## Usage
 
