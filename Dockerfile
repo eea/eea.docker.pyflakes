@@ -1,4 +1,4 @@
-FROM python:2-alpine
+FROM python:3-alpine
 MAINTAINER "EEA: IDM2 A-Team" <eea-edw-a-team-alerts@googlegroups.com>
 
 ENV PYFLAKES_VERSION=2.3.1
